@@ -1,3 +1,9 @@
+---
+layout: post
+title: "英语听力资料（from：https://atomiclearning.app）"
+categories: English
+---
+
 ## 2023-05-24
 
 <audio src="./audios/2023524.m4a" controls preload></audio>
