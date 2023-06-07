@@ -6,7 +6,7 @@ categories: English
 
 ## 2023-05-24
 
-<audio src="{{ site.url }}/assets/audios/2023524.m4a" controls preload></audio>
+<audio src="https://f088510adbf331ca3e1b615fe9b35a6f.r2.cloudflarestorage.com/blog-assets/2023524.m4a" controls preload></audio>
 
 I am planning a trip to Japan next year. Do you have any travel tips or must-see places to recommend?
 
