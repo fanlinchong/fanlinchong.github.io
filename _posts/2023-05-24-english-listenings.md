@@ -6,25 +6,25 @@ categories: English
 
 ## 2023-05-24
 
-<audio src="./audios/2023524.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/2023524.m4a" controls preload></audio>
 
 I am planning a trip to Japan next year. Do you have any travel tips or must-see places to recommend?
 
 ## 2023-05-30
 
-<audio src="./audios/2023530.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/2023530.m4a" controls preload></audio>
 
 The new exhibition at the art museum is worth seeing. Have you been there recently?
 
 ## 2023-05-31
 
-<audio src="./audios/2023531.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/2023531.m4a" controls preload></audio>
 
 I have been learning about sustainable living recently. It is amazing how small changes can make a big difference.
 
 ## 2023-06-01
 
-<audio src="./audios/202361.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/202361.m4a" controls preload></audio>
 
 I have been experimenting with vegetarian recipes. Do you have any favorite vegetarian dishes?
 
@@ -32,7 +32,7 @@ I have been experimenting with vegetarian recipes. Do you have any favorite vege
 
 ## 2023-06-02
 
-<audio src="./audios/202362.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/202362.m4a" controls preload></audio>
 
 I am studying for my final exams. How do you usually prepare for important tests?
 
@@ -40,7 +40,7 @@ I am studying for my final exams. How do you usually prepare for important tests
 
 ## 2023-06-03
 
-<audio src="./audios/202363.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/202363.m4a" controls preload></audio>
 
 I am fascinated by the study of human behavior in psychology. Do you find it interesting too?
 
@@ -48,7 +48,7 @@ I am fascinated by the study of human behavior in psychology. Do you find it int
 
 ## 2023-06-04
 
-<audio src="./audios/202364.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/202364.m4a" controls preload></audio>
 
 The local farmers market has a great selection of fresh produce. Have you ever shopped there?
 
@@ -56,13 +56,13 @@ The local farmers market has a great selection of fresh produce. Have you ever s
 
 ## [#50]2023-06-05
 
-<audio src="./audios/202365.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/202365.m4a" controls preload></audio>
 
 I have been trying to reduce my screen time. How do you manage your digital habits?
 
 我一直在努力减少看屏幕的时间。你如何管理你的数字习惯？
 
-<audio src="./audios/202365-hard.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/202365-hard.m4a" controls preload></audio>
 
 I have been endeavoring to curtail my screen usage, employing various techniques to regulate my digital proclivities. How do you effectively govern your own digital comportment?
 
@@ -70,13 +70,13 @@ I have been endeavoring to curtail my screen usage, employing various techniques
 
 ## [#51]2023-06-06
 
-<audio src="./audios/202366.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/202366.m4a" controls preload></audio>
 
 I have started learning Spanish. it's a beautiful language! Do you speak any foreign languages?
 
 我已经开始学习西班牙语了。这是一门美丽的语言！你会说外语吗？
 
-<audio src="./audios/202366-hard.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/202366-hard.m4a" controls preload></audio>
 
 I have embarked on the journey of acquiring Spanish as a linguistic skill. It is such an aesthetically pleasing language, Is not it? Are there any non-native languages within your repertoire?
 
@@ -84,13 +84,13 @@ I have embarked on the journey of acquiring Spanish as a linguistic skill. It is
 
 ## [#52]2023-06-07
 
-<audio src="./audios/202367.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/202367.m4a" controls preload></audio>
 
 I have been to Rome last summer, and I absolutely loved it! The food, the culture, everything was just wonderful. Have you ever visited Italy?
 
 去年夏天我去过罗马，我非常喜欢它！食物、文化，一切都很棒。你去过意大利吗？
 
-<audio src="./audios/202367-hard.m4a" controls preload></audio>
+<audio src="{{ site.url }}/assets/audios/202367-hard.m4a" controls preload></audio>
 
 I had the opportunity to venture to Rome the preceding summer, and it was simply a delightful experience! The gastronomy, the cultural richness, everything was beyond compare. Have you ever set foot on Italian soil?
 
