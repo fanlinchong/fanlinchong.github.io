@@ -3,6 +3,19 @@ layout: post
 title: "英语听力资料（from：https://atomiclearning.app）"
 categories: English
 ---
+## [#54]2023-06-09
+
+<audio src="https://assets.fanlinchong.com/202369.m4a" controls preload></audio>
+
+I am going to the grocery store later. Do you need anything?
+
+我待会儿去杂货店。你需要什么东西吗？
+
+<audio src="https://assets.fanlinchong.com/202369-hard.m4a" controls preload></audio>
+
+I am intending to make a trip to the grocery emporium later in the day. Is there anything You are in need of?
+
+我打算当天晚些时候去杂货店一趟。你有什么需要的吗？
 
 ## 2023-05-24
 
