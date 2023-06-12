@@ -3,6 +3,20 @@ layout: post
 title: "英语听力资料（from：https://atomiclearning.app）"
 categories: English
 ---
+## [#56]2023-06-12
+
+<audio src="https://assets.fanlinchong.com/2023612.m4a" controls preload></audio>
+
+I just finished reading this fantastic book about ancient history. Are you into history?
+
+我刚刚读完这本关于古代历史的精彩书籍。你喜欢历史吗？
+
+<audio src="https://assets.fanlinchong.com/2023612-hard.m4a" controls preload></audio>
+
+I have just turned the last page of this riveting tome delving into ancient history. Do you harbor an interest in historical studies?
+
+我刚刚翻完这本深入探究古代历史的引人入胜的巨著的最后一页。您对历史研究感兴趣吗？
+
 ## [#54]2023-06-09
 
 <audio src="https://assets.fanlinchong.com/202369.m4a" controls preload></audio>
