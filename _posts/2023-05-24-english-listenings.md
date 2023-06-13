@@ -3,7 +3,7 @@ layout: post
 title: "英语听力资料（from：https://atomiclearning.app）"
 categories: English
 ---
-## [#567]2023-06-13
+## [#57]2023-06-13
 
 <audio src="https://assets.fanlinchong.com/2023613.m4a" controls preload></audio>
 
@@ -30,6 +30,20 @@ I just finished reading this fantastic book about ancient history. Are you into 
 I have just turned the last page of this riveting tome delving into ancient history. Do you harbor an interest in historical studies?
 
 我刚刚翻完这本深入探究古代历史的引人入胜的巨著的最后一页。您对历史研究感兴趣吗？
+
+## [#55]2023-06-11
+
+<audio src="https://assets.fanlinchong.com/2023611.m4a" controls preload></audio>
+
+With the recent economic fluctuations, investing in cryptocurrency might be a bit risky. What do you think?
+
+随着最近的经济波动，投资加密货币可能会有点风险。你怎么认为？
+
+<audio src="https://assets.fanlinchong.com/2023611-hard.m4a" controls preload></audio>
+
+Given the recent tumult in the economic landscape, injecting capital into cryptocurrency could be somewhat fraught with peril. Could you share your perspective?
+
+鉴于最近经济形势的动荡，向加密货币注入资金可能会充满风险。你能分享你的观点吗？
 
 ## [#54]2023-06-09
 
