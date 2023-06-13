@@ -3,6 +3,20 @@ layout: post
 title: "英语听力资料（from：https://atomiclearning.app）"
 categories: English
 ---
+## [#567]2023-06-13
+
+<audio src="https://assets.fanlinchong.com/2023613.m4a" controls preload></audio>
+
+It has such a nice day today! I am thinking about going for a run in the park.
+
+今天天气真好！我在考虑去公园跑步。
+
+<audio src="https://assets.fanlinchong.com/2023613-hard.m4a" controls preload></audio>
+
+What an exquisite day it is! I am contemplating a vigorous run amidst the greenery of the park.
+
+这是多么美好的一天！我正在考虑在公园的绿地中进行一次充满活力的跑步。
+
 ## [#56]2023-06-12
 
 <audio src="https://assets.fanlinchong.com/2023612.m4a" controls preload></audio>
