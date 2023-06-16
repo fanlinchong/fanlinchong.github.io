@@ -3,6 +3,34 @@ layout: post
 title: "英语听力资料（from：https://atomiclearning.app）"
 categories: English
 ---
+## [#60]2023-06-16
+
+<audio src="https://assets.fanlinchong.com/2023616.m4a" controls preload></audio>
+
+I am thinking about getting a pet. Do you have any suggestions?
+
+我在考虑养只宠物。你有什么建议吗？
+
+<audio src="https://assets.fanlinchong.com/2023616-hard.m4a" controls preload></audio>
+
+I am contemplating the addition of a pet to my household. Do you have any recommendations?
+
+我正在考虑为我的家庭添加一只宠物。你有什么建议？
+
+## [#59]2023-06-15
+
+<audio src="https://assets.fanlinchong.com/2023615.m4a" controls preload></audio>
+
+I have started a new workout routine. I hope it helps me get fit.
+
+我开始了新的锻炼程序。我希望它能帮助我健身。
+
+<audio src="https://assets.fanlinchong.com/2023615-hard.m4a" controls preload></audio>
+
+I have embarked on a new regimen of physical exertion. My aspiration is that it aids in achieving a superior state of fitness.
+
+我开始了一种新的体力消耗方案。我的愿望是它有助于实现卓越的健身状态。
+
 ## [#57]2023-06-13
 
 <audio src="https://assets.fanlinchong.com/2023613.m4a" controls preload></audio>
