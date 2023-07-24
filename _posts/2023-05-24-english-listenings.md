@@ -3,6 +3,20 @@ layout: post
 title: "英语听力资料（from：https://atomiclearning.app）"
 categories: English
 ---
+## [#99]2023-07-24
+
+<audio src="https://assets.fanlinchong.com/2023724.m4a" controls preload></audio>
+
+Let us discuss the evolution of cinema. The transition from silent films to talkies was significant.
+
+让我们讨论一下电影的演变。从无声电影到有声电影的转变意义重大。
+
+<audio src="https://assets.fanlinchong.com/2023724.m4a" controls preload></audio>
+
+Shall we dissect the evolution of the cinematic world? The transformation from silent films to talkies marked a significant milestone.
+
+我们要剖析电影世界的演变吗？从无声电影到有声电影的转变标志着一个重要的里程碑。
+
 ## [#60]2023-06-16
 
 <audio src="https://assets.fanlinchong.com/2023616.m4a" controls preload></audio>
