@@ -3,6 +3,13 @@ layout: post
 title: "英语听力资料（from：https://atomiclearning.app）"
 categories: English
 ---
+
+<audio src="https://assets.fanlinchong.com/2023828-hard.m4a" controls preload></audio>
+
+The speed of my internet connectivity is less than optimal, eliciting feelings of frustration.
+
+我的互联网连接速度不太理想，这让我感到沮丧。
+
 ## [#99]2023-07-24
 
 <audio src="https://assets.fanlinchong.com/2023724.m4a" controls preload></audio>
